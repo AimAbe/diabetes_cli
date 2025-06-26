@@ -104,7 +104,7 @@ This project is also built as a learning experience to explore:
 
 ## 📃 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 [Aimen Aberra]
 
 ---
 
